@@ -1,6 +1,6 @@
 # Rails Longest Word Game
 
-A small Ruby on Rails exercise: the app shows 10 random letters and asks you to type the longest English word you can build from them.
+A small, unfinished Ruby on Rails exercise. It was meant to show 10 random letters and ask you to type the longest English word you can build from them. It does not run as committed (see [What it does](#what-it-does)).
 
 ## Context
 
